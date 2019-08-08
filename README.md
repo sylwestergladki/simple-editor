@@ -1,4 +1,9 @@
-# wtf-gulp-starter
+# Welcome to my repository  
+
+
+Simple-editor use localStorage.
+[Homepage](https://github.com/sylwestergladki/)
+## How to open simple-editor on your desktop?
 
 `npm install -g gulp-cli`
 
